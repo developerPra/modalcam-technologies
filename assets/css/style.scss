@@ -197,6 +197,9 @@ body {
 }
 
 #testimonial {
+    .testimonials {
+        overflow: hidden;
+    }
 
     // custom arrows for swiper 
     .swiper-button-next::after,

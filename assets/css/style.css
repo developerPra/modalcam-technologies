@@ -189,6 +189,10 @@ body {
   width: 60%;
 }
 
+#testimonial .testimonials {
+  overflow: hidden;
+}
+
 #testimonial .swiper-button-next::after,
 #testimonial .swiper-button-prev::after {
   display: none;
